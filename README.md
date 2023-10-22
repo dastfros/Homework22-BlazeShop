@@ -1,2 +1,2 @@
 # CV-resume
-Me website for cv
+My website for cv
